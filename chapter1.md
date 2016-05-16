@@ -72,7 +72,7 @@ A dataset with a selection of movies, `movie_selection`, is available in the wor
 - For the plot, use `plot(x = ..., y = ..., col = ...)`. 
 
 *** =pre_exercise_code
-```
+```{r}
 # Pre-load a package in the workspace
 library(MindOnStats)
 
@@ -85,7 +85,7 @@ rm(Movies)
 ```
 
 *** =sample_code
-```
+```{r}
 # movie_selection is available in your workspace
 
 # Check out the structure of movie_selection
@@ -99,7 +99,7 @@ rm(Movies)
 ```
 
 *** =solution
-```
+```{r}
 # movie_selection is available in your workspace
 
 # Check out the structure of movie_selection
@@ -113,7 +113,7 @@ plot(good_movies$Run, good_movies$Rating, col = good_movies$Genre)
 ```
 
 *** =sct
-```
+```{r}
 # The sct section defines the Submission Correctness Tests (SCTs) used to
 # evaluate the student's response. All functions used here are defined in the 
 # testwhat R package. Documentation can also be found at github.com/datacamp/testwhat/wiki
