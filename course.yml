@@ -1,7 +1,3 @@
-title            : Template R DataCamp Course
-author_field     : ncarchedi
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-author_bio       : ncarchedi is an awesome DataCamp course creator.<br>You can tell something about yourself <strong>here</strong>.
-university       : DataCamp
-difficulty_level : 2
-time_needed      : 1 hour
+title: test course
+description: This is a test course.
+programming_language: r
