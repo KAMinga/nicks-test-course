@@ -8,7 +8,6 @@ attachments :
 ## Analyze movie ratings
 
 *** =video_link
-//player.vimeo.com/video/154783078
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:39f7477015
 ## A really bad movie
