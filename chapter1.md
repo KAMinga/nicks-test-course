@@ -7,7 +7,8 @@ attachments :
 --- type:VideoExercise lang:r xp:50 skills:1 key:ff115e1fab
 ## Analyze movie ratings
 
-*** =video_link
+*** =video_hls
+//videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:39f7477015
 ## A really bad movie
